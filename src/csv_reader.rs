@@ -1,4 +1,4 @@
-pub mod csv_read {
+pub mod csv_reader {
     use std::fs;
     use std::time::Instant;
     use std::str::Lines;
